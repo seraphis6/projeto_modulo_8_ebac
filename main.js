@@ -1,7 +1,7 @@
 const form = document.getElementById('form-atividade')
 const contatos = []
 const nums = []
-const foto = '<img src="contato.png" alt="Foto do contato"/>'
+const foto = '<img src="images/contato.png" alt="Foto do contato"/>'
 
 let linhas = ''
 
